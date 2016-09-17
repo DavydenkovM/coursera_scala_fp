@@ -1,4 +1,4 @@
-// package recfun
+package recfun
 
 object Main {
   def main(args: Array[String]) {
@@ -8,10 +8,6 @@ object Main {
         print(pascal(col, row) + " ")
       println()
     }
-
-    println("balance")
-    var str : String = "(I told him that it’s not (yet) done). (But he wasn’t listening)"
-    println(balance(str.toList))
   }
 
   /**
@@ -26,34 +22,33 @@ object Main {
    * Exercise 2
    */
   def balance(chars: List[Char]): Boolean = {
-    def numOpens(chars: List[Char]): Int =
-      _numOpens(chars, 0)
-
-    def _numOpens(chars: List[Char], acc: Int): Int = {
-      if (chars.isEmpty) 1
+    def process(chars: List[Char], acc: List[Char]): Boolean =
+      if (chars.isEmpty) acc.isEmpty
       else {
-        val h = chars.head
-        val t = chars.tail
-
-        val n : Int =
-          if (h == '(')
-            acc + 1
-          else if (h == ')')
-            acc - 1
-          else
-            acc
-
-        if (!t.isEmpty) _numOpens(t, n)
-        else n
+        chars.head match {
+          case '(' => process(chars.tail, acc :+ chars.head)
+          case ')' =>  if (acc.contains('('))
+                         process(chars.tail, acc.dropRight(1))
+                       else
+                         false
+          case _ => process(chars.tail, acc)
+        }
       }
-    }
 
-    val number = numOpens(chars)
-    number == 0
+    val list = List[Char]()
+    process(chars, list)
   }
 
   /**
    * Exercise 3
-    def countChange(money: Int, coins: List[Int]): Int = ???
    */
+  def countChange(money: Int, coins: List[Int]): Int = {
+    money match {
+      case 0 => 1
+      case x if x < 0 => 0
+      case x if x >= 1 && coins.isEmpty => 0
+      case _ => countChange(money, coins.tail) +
+                countChange(money - coins.head, coins)
+    }
   }
+}
