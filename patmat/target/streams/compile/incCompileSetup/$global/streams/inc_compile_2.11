@@ -1,0 +1,316 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+25 items
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> /home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> /home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/common/package$.class
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> /home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/common/package.class
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> /home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$1.class
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> /home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$2.class
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> /home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$codeBits$1.class
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> /home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$combine$1.class
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> /home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> /home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> /home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$encode$1.class
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> /home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$1.class
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> /home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$2.class
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> /home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$mergeCodeTables$1.class
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> /home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$quickEncode$1.class
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> /home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$1.class
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> /home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$.class
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> /home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> /home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> /home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> /home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> /home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> /home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman.class
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> /home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Main$.class
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> /home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Main$delayedInit$body.class
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> /home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Main.class
+binary dependencies:
+4 items
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> /home/davydenkov/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> /home/davydenkov/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+25 items
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> common.package
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> common.package$
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$1
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$2
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$codeBits$1
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$combine$1
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$1
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$2
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$encode$1
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$makeOrderedLeafList$1
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$makeOrderedLeafList$2
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$mergeCodeTables$1
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$quickEncode$1
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$times$1
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$CodeTree
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork$
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf$
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Main
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Main$
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Main$delayedInit$body
+used names:
+154 items
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> ::
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> <init>
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> <repeated>
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> Any
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> AnyRef
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> File
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> FileInputStream
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> InputStream
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> List
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> None
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> Nothing
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> Option
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> Predef
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> String
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> _root_
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> child
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> children
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> classesDir
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> common
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> exists
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> file
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> foldLeft
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> getClass
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> getParentFile
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> getResource
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> io
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> java
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> package
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> projectDir
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> resourceFile
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> resourcePath
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> scala
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> subFile
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> toURI
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> &&
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> +
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> ->
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> ::
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> :::
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> <
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> <init>
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> ==
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction2
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction4
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> AnyRef
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> App
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> Bit
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> Boolean
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> Char
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> Code
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> CodeTable
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> CodeTree
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> Fork
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> Function1
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> Huffman
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> Int
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> Leaf
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> List
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> Main
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> Map
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> Nil
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> None
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> Predef
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> Product
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> ScalaRunTime
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> Serializable
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> Statics
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> String
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> Tuple2
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> _1
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> _2
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> _root_
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> _toString
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> a
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> acc
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> anyHash
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> apply
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> asInstanceOf
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> augmentString
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> b
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> bits
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> c
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> canBuildFrom
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> char
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> chars
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> code
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> codeBits
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> combine
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> common
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> contains
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> convert
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> countChars
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> counter
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> cs
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> decode
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> decodedSecret
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> enc1
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> encode
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> eq
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> f
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> f1
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> f2
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> filter
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> finalizeHash
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> flatMap
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> foldLeft
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> frenchCode
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> freqs
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> getOrElse
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> head
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> immutable
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> isEmpty
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> isInstanceOf
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> left
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> lookup
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> makeCodeTree
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> makeOrderedLeafList
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> map
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> mergeCodeTables
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> mix
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> ne
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> p
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> package
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> patmat
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> prepend
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> println
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> quickEncode
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> remaining
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> right
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> runtime
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> scala
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> secret
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> singleton
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> size
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> sortWith
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> str
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> string2Chars
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> t1
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> t2
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> table
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> tail
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> text
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> times
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> toInt
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> toList
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> toString
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> traverse
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> tree
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> trees
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> typedProductIterator
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> until
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> w
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> weight
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> ||
+product stamps:
+25 items
+/home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1476060547000)
+/home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/common/package$.class -> lastModified(1476060547000)
+/home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/common/package.class -> lastModified(1476060547000)
+/home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$1.class -> lastModified(1476556299000)
+/home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$2.class -> lastModified(1476556299000)
+/home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$codeBits$1.class -> lastModified(1476556299000)
+/home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$combine$1.class -> lastModified(1476556299000)
+/home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class -> lastModified(1476556299000)
+/home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class -> lastModified(1476556299000)
+/home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$encode$1.class -> lastModified(1476556299000)
+/home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$1.class -> lastModified(1476556299000)
+/home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$2.class -> lastModified(1476556299000)
+/home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$mergeCodeTables$1.class -> lastModified(1476556299000)
+/home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$quickEncode$1.class -> lastModified(1476556299000)
+/home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$1.class -> lastModified(1476556299000)
+/home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$.class -> lastModified(1476556299000)
+/home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class -> lastModified(1476556299000)
+/home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class -> lastModified(1476556299000)
+/home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class -> lastModified(1476556299000)
+/home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class -> lastModified(1476556299000)
+/home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class -> lastModified(1476556299000)
+/home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Huffman.class -> lastModified(1476556299000)
+/home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Main$.class -> lastModified(1476556299000)
+/home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Main$delayedInit$body.class -> lastModified(1476556299000)
+/home/davydenkov/work/coursera_scala_fp/patmat/target/scala-2.11/classes/patmat/Main.class -> lastModified(1476556299000)
+source stamps:
+2 items
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> hash(1405a439f5463db9da801e7d447e22576278c2d7)
+binary stamps:
+2 items
+/home/davydenkov/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar -> lastModified(1469981534000)
+class names:
+2 items
+/home/davydenkov/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.App
+/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+2 items
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AaHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGd0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIB0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIFzcQB+AHR0AANBbnlzcQB+AHhzcQB+AHt1cQB+AH4AAAACc3EAfgCAdAAFc2NhbGFxAH4Ah3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGY29tbW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFXrBBB63VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEgvaG9tZS9kYXZ5ZGVua292L3dvcmsvY291cnNlcmFfc2NhbGFfZnAvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSIW48SpbKoPa1lj3bMH91nijjUqA==
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAEtgaiAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAR3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNMEJnd0AAZub3RpZnlzcQB+AAzj40CDdAAMbWFrZUNvZGVUcmVlc3EAfgAMMNffwHQABnNlY3JldHNxAH4ADPnmDgl0AAd1bmFwcGx5c3EAfgAMppAJRHQABmVuY29kZXNxAH4ADGGw/o10AAZ3ZWlnaHRzcQB+AAx7QHfadAAHY3VycmllZHNxAH4ADPkt/KV0AAR3YWl0c3EAfgAMP0xdhXQADmNvcHkkZGVmYXVsdCQyc3EAfgAM7JbDknQADSRhc0luc3RhbmNlT2ZzcQB+AAyhT5qjdAAMcHJvZHVjdEFyaXR5c3EAfgAMQaAAxHQABmVxdWFsc3NxAH4ADFNL+O50AAtxdWlja0VuY29kZXNxAH4ADEIPRD50AARDb2Rlc3EAfgAMLzwhmnQADGFzSW5zdGFuY2VPZnNxAH4ADGkq2pd0AA5leGVjdXRpb25TdGFydHNxAH4ADJF9kTp0AAxzeW5jaHJvbml6ZWRzcQB+AAwzgt2YdAAEbGVmdHNxAH4ADGvPKk90AA0kaXNJbnN0YW5jZU9mc3EAfgAM5G1jmHQABnR1cGxlZHNxAH4ADOWMSpB0AAdIdWZmbWFuc3EAfgAMrzPg1XQACGNhbkVxdWFsc3EAfgAM3LgqmXQADmNvcHkkZGVmYXVsdCQ0c3EAfgAMF5H0NXQABG1haW5zcQB+AAzpowCHdAAEY2hhcnNxAH4ADLgUBvx0AAZkZWNvZGVzcQB+AAxnteCcdAAETGVhZnNxAH4ADNSf+JB0AAhjb2RlQml0c3NxAH4ADASF1GR0AA1wcm9kdWN0UHJlZml4c3EAfgAMvU4kOHQABXVudGlsc3EAfgAM1rKAsXQACmZyZW5jaENvZGVzcQB+AAxQ+bpudAAJbm90aWZ5QWxsc3EAfgAMi9wBCXQAC3JlYWRSZXNvbHZlc3EAfgAM6sYZDnQABWNoYXJzc3EAfgAMD4XMBXQADGlzSW5zdGFuY2VPZnNxAH4ADDRxsyN0AAY8aW5pdD5zcQB+AAzb7l0ZdAAFYXBwbHlzcQB+AAz+TOuvdAANZGVjb2RlZFNlY3JldHNxAH4ADMkDhzd0AAI9PXNxAH4ADF36TPV0AARlbmMxc3EAfgAMPoBchnQABWNsb25lc3EAfgAMGBck4XQAD21lcmdlQ29kZVRhYmxlc3NxAH4ADAgq9UB0AAV0aW1lc3NxAH4ADPNo+jJ0AAdjb21iaW5lc3EAfgAMmiZunnQADmNvcHkkZGVmYXVsdCQzc3EAfgAMvj6PcnQABGNvcHlzcQB+AAyPjqbfdAAETWFpbnNxAH4ADF/cRMh0AAxzdHJpbmcyQ2hhcnNzcQB+AAwQgT1HdAAIdG9TdHJpbmdzcQB+AAwWHN0RdAAEYXJnc3NxAH4ADI6HD+d0AAlzaW5nbGV0b25zcQB+AAxZ0pZCdAACIT1zcQB+AAyFBnOgdAAIZ2V0Q2xhc3NzcQB+AAwaC9rBdAAJQ29kZVRhYmxlc3EAfgAMR2D433QADmNyZWF0ZUNvZGVUcmVlc3EAfgAMRfJBNnQADmNvcHkkZGVmYXVsdCQxc3EAfgAM9q1EPHQABEZvcmtzcQB+AAwkDUoDdAACdDFzcQB+AAwlxqCSdAADQml0c3EAfgAMZDnu3XQAAm5lc3EAfgAMQ8CvyHQAE21ha2VPcmRlcmVkTGVhZkxpc3RzcQB+AAwXcm2rdAAIQ29kZVRyZWVzcQB+AAyf5sWCdAACZXFzcQB+AAyHeQSodAAHY29udmVydHNxAH4ADF4e7tV0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAwZrS4GdAAFcmlnaHRzcQB+AAwRRZrwdAALZGVsYXllZEluaXRzcQB+AAyVIroCdAACIyNzcQB+AAwLyVp2dAAIZmluYWxpemVzcQB+AAxVJdcedAAOcHJvZHVjdEVsZW1lbnRzcQB+AAysH6/AdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCleHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAOcGF0bWF0Lkh1ZmZtYW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AL0Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AKVMAAlpbmhlcml0ZWRxAH4ApUwAB3BhcmVudHNxAH4ApXhxAH4AxHNxAH4AvQF1cQB+AKAAAAAAcHNxAH4AvQF1cQB+AKAAAAAAcHNxAH4AvQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AMN0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AMNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+ANx0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AN1zcQB+ANB0AANBbnlzcQB+ANRzcQB+ANd1cQB+ANoAAAACc3EAfgDcdAAFc2NhbGFxAH4A43Bwc3EAfgCicQB+AK91cQB+ALAAAAAAc3EAfgCyAHQAC3BhdG1hdC5NYWludXEAfgC1AAAAAHEAfgC5dXEAfgC7AAAAAnQAEHNjYWxhLmRlcHJlY2F0ZWR0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3NxAH4AvQFxAH4AxXBzcQB+AL0Bc3EAfgDHc3EAfgC9AXVxAH4AoAAAAABwc3EAfgC9AXVxAH4AoAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ApnEAfgCvdXEAfgCwAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4A+3hwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcQB+ANB0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NxAH4A1HNxAH4A13VxAH4A2gAAAAJzcQB+ANxxAH4A6nEAfgDjc3EAfgCyAHEAfgA9dXEAfgC1AAAAAHNxAH4A0HQABFVuaXRxAH4BCnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+APt4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+ALh0AAVQbGFpbnEAfgBxc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgDRWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgDDc3EAfgDQdAAFQXJyYXlxAH4BCnVxAH4AzgAAAAFzcQB+ANB0AAZTdHJpbmdzcQB+ANRzcQB+ANd1cQB+ANoAAAADc3EAfgDccQB+AN9zcQB+ANxxAH4A4XEAfgDjcHNxAH4AvQF1cQB+AM4AAAAEc3EAfgDQdAADQXBwcQB+AQpzcQB+ANB0AAtEZWxheWVkSW5pdHEAfgEKc3EAfgDQcQB+ANNxAH4BJ3NxAH4A0HEAfgDlcQB+AQpwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABnBhdG1hdHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV8mcyT11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABIL2hvbWUvZGF2eWRlbmtvdi93b3JrL2NvdXJzZXJhX3NjYWxhX2ZwL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUFAWkOfVGPbnagB59RH4iV2J4wtc=
+external apis:
+0 items
+source infos:
+2 items
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/home/davydenkov/work/coursera_scala_fp/patmat/src/main/scala/patmat/Huffman.scala -> 
+AAAAAAAAAAA=
+compilations:
+8 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV6wQQet1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL2RhdnlkZW5rb3Yvd29yay9jb3Vyc2VyYV9zY2FsYV9mcC9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV6wSbXd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL2RhdnlkZW5rb3Yvd29yay9jb3Vyc2VyYV9zY2FsYV9mcC9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV6wTuiF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL2RhdnlkZW5rb3Yvd29yay9jb3Vyc2VyYV9zY2FsYV9mcC9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV6wWX651cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL2RhdnlkZW5rb3Yvd29yay9jb3Vyc2VyYV9zY2FsYV9mcC9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV6xJOw91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL2RhdnlkZW5rb3Yvd29yay9jb3Vyc2VyYV9zY2FsYV9mcC9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV6xLW9l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL2RhdnlkZW5rb3Yvd29yay9jb3Vyc2VyYV9zY2FsYV9mcC9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV6xXKVp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL2RhdnlkZW5rb3Yvd29yay9jb3Vyc2VyYV9zY2FsYV9mcC9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV8mcyT11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL2RhdnlkZW5rb3Yvd29yay9jb3Vyc2VyYV9zY2FsYV9mcC9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
